@@ -40,55 +40,12 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,react,js,ts,html,css,bootstrap,mysql,postgresql,redis,docker,linux,git,github,postman" />
 </p>
 
----
 
-## 🏆 Featured Projects
-
-- 🏢 ERP_Gawda – Multi-module ERP SaaS for HR & Payroll.
-- 🏥 Soft_Med – Healthcare appointment management system.
-- 📈 TRX_Media – Social media growth platform.
-- 💼 Trustbee – Recruitment platform for Sweden.
-- 📋 ISO_Qualitex – Compliance workflow platform.
-- 🌐 Emaxit – Corporate website for a Saudi software company.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasserkhairy&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasserkhairy&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserkhairy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasserkhairy&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
-
----
-
-## 🎓 Education
-
-
-- Full-Stack Development Diploma – Route Academy
-- Python Full-Stack – ITI / ICC
-
----
 
 ## 🌐 Languages
 
-- Arabic: Native
-- English: Professional Working Proficiency (B2)
+- Arabic
+- English
 
 ---
 
