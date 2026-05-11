@@ -1,12 +1,4 @@
-ممتاز جدًا. اطلعت على سيرتك الذاتية، وهي قوية جدًا وتوضح أنك **Senior Backend Developer / Full Stack Developer** مع أكثر من 5 سنوات خبرة في Laravel وDjango وReact، بالإضافة إلى خبرة تدريبية في ITI وDEPI. 
 
-سأجهز لك ملف `README.md` احترافي جاهز للنسخ واللصق في GitHub.
-
----
-
-## 🚀 GitHub Profile README جاهز
-
-```md
 <h1 align="center">Hi 👋, I'm Nasser Khairy Sidrak</h1>
 <h3 align="center">Senior Backend Developer | Full Stack Developer</h3>
 <h4 align="center">Laravel • Django • React • FastAPI • PostgreSQL</h4>
@@ -105,4 +97,4 @@
 ## 💡 Motto
 
 > "Build scalable systems, write clean code, and help others grow."
-```
+
