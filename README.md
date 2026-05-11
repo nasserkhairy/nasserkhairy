@@ -12,7 +12,7 @@
 - 🚀 Senior Backend Developer with 5+ years of experience.
 - 🏗️ Specialized in building ERP, SaaS, Healthcare, E-commerce, and Insurance systems.
 - 🧠 Expert in Laravel, Django, REST APIs, Multi-Tenancy, and System Architecture.
-- 👨‍🏫 Instructor at ITI & DEPI, mentoring 80+ developers.
+- 👨‍🏫 Instructor at ITI & DEPI, mentoring 1000+ developers.
 - 🌍 Open to Remote opportunities worldwide.
 - 📍 Cairo, Egypt.
 
